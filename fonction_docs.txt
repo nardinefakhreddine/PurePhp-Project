@@ -1,0 +1,12 @@
+=======================
+==Functions  Document==
+=========================
+
+
+
+getAllfrom($field,$table,$where,$and=null,$orderfield,$ordering)
+
+$where can be empty "null by default"
+$ordering can be empty "desc by default"
+--using page index.php/categories.php/header.php--
+
